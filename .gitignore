@@ -1,0 +1,6 @@
+*~
+*.beam
+*.log
+.rebar/
+ebin/
+log/
